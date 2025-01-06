@@ -1,0 +1,69 @@
+Timeline of Main Events in the Development of PRINCE2:
+●
+Pre-1989: PROMPT II (Project Resource Organisation Management Planning Techniques) exists as a project management method.
+●
+1989: The UK Central Computer and Telecommunications Agency (CCTA) adopts a version of PROMPT II as a government standard for IT projects. Initially named 'PRINCE' (PROMPT II IN the CCTA Environment).
+●
+Early 1990s: 'PRINCE' is renamed "PRojects IN Controlled Environments" through a civil service competition.
+●
+1996: PRINCE2 is released as a generic project management method, marking the second edition of the earlier PRINCE method. This release is sometimes referred to as the 1st edition in later documents
+●
+1998: PRINCE2 2nd Edition released.
+●
+2002: PRINCE2 3rd Edition released.
+●
+2005: PRINCE2 4th Edition released.
+●
+2009: "PRINCE2:2009 Refresh" is released, later known as "PRINCE2 5th Edition".
+●
+2013: Ownership of PRINCE2 is transferred from the HM Cabinet Office to AXELOS Ltd, a joint venture by the Cabinet Office and Capita.
+●
+2017: "PRINCE2 2017 Update" is released, later known as "PRINCE2 6th Edition".
+●
+January 1, 2020: "PRINCE2 2017" is renamed "PRINCE2 6th Edition" and "PRINCE2 2009" is renamed "PRINCE2 5th Edition" to align with other frameworks. No other changes were made other than renaming.
+●
+2021: PeopleCert acquires AXELOS, taking ownership of PRINCE2.
+●
+2023: AXELOS launches PRINCE2 7, the 7th edition, which emphasizes people and change management.
+Cast of Characters (People and Organizations):
+●
+Central Computer and Telecommunications Agency (CCTA): A UK government support agency that initially adopted and developed PRINCE, evolving from PROMPT II. Now defunct.
+●
+AXELOS Ltd: A joint venture between the UK Cabinet Office and Capita that owned the rights to PRINCE2 from 2013 to 2021. Developed PRINCE2 versions such as the 2017 update and the 2023 7th edition..
+●
+Capita: A UK company with a 51% stake in AXELOS. Involved in the ownership of PRINCE2 during its time within AXELOS.
+●
+PeopleCert: An international company that acquired AXELOS in 2021, becoming the current owner of PRINCE2.
+●
+UK Cabinet Office: A UK government department that initially owned the rights to PRINCE2 before the creation of AXELOS.
+●
+Project Manager: The individual responsible for the day-to-day management of a project according to PRINCE2 principles, including planning, executing, and controlling the project's progress.
+●
+Project Board: The group responsible for the overall direction and management of a project at a high level. They set tolerances and oversee progress, ensuring the project remains aligned with its objectives.
+●
+Team Manager: Manages a team that is carrying out a work package from the project plan. Interface with the project manager in 'Managing Product Delivery'.
+●
+Corporate/Programme Management: These are higher levels of management overseeing multiple projects or a portfolio of projects within an organization. Set the highest level of project tolerances.
+●
+Stakeholders: Individuals and groups that have an interest in the outcome of a project. PRINCE2 projects need representation from business, user, and supplier stakeholders.
+A historical project data and lessons learned database would serve as a valuable resource for enhancing project management by providing contextually relevant advice based on previous project experiences. This database would contain information on common challenges and their resolutions, examples of successfully implemented PRINCE2 projects, and trends in issues and risks, all of which align with the PRINCE2 principle of "learn from experience".
+
+Here's how such a database would be structured, based on the sources:
+
+*   **Common Challenges and Resolutions**:
+    *   The database would include records of frequent issues encountered in past projects, such as scope creep, resource conflicts, or communication breakdowns. For each challenge, the database would detail how the issue was resolved and the effectiveness of the solution, acting as a guide for future project teams. This information would be essential in helping project managers avoid repeating past mistakes.
+    *   For example, if a common challenge was found to be a lack of clarity in roles and responsibilities, the database would contain an explanation of how this was addressed, and guidance on how to ensure clear roles and responsibilities in future projects. This relates to the PRINCE2 principle of having **defined roles and responsibilities** and would guide users to clearly define all roles, and ensure that all primary stakeholders (business, user, supplier) are represented.
+*   **Examples of Successfully Implemented PRINCE2 Projects**:
+    *   The database would contain case studies of projects that have successfully used PRINCE2, outlining the project's objectives, how PRINCE2 was applied, and the resulting outcomes. These examples would demonstrate the practical application of PRINCE2 principles and practices, showcasing how the methodology can be tailored to different project environments.
+    *   For example, a case study of a successful software development project might highlight how the project was managed using **"management by exception"**, focusing on the agreed tolerances, and escalating only those issues that fell outside the tolerances. It might also highlight how the **"focus on products"** helped the team deliver a quality product that met stakeholder needs. Such examples could also showcase the successful integration of PRINCE2 with agile methods.
+*   **Trends in Issues and Risks**:
+    *   The database would track trends in issues and risks based on industry or project type. This would help project teams anticipate potential problems and proactively manage them. For example, projects in the construction industry might often face issues with suppliers, while software development projects might frequently experience issues with changing requirements.
+    *   The database would provide guidance on using the **Risk Register** to keep track of all project risks, including risk identification, assessment, and mitigation. Users would be guided to continuously review and update the Risk Register, as well as the Issue Log to track events that have happened that were not planned and might affect project outcomes.
+*   **Integration with the Decision Tree Logic System**:
+    *   The historical project data could be directly integrated with the dynamic decision tree logic system, using the lessons learned to refine project management decisions. For example, if the decision tree logic system prompts a question about risk management, the database could provide examples of common risks for similar projects and guidance on how to mitigate them.
+    *   The database would support the system to ensure that **management products** are appropriately created and updated as a project progresses, prompting users to refer to relevant logs and registers.
+*   **Continuous Improvement**:
+    *   The database would emphasize the need to log lessons learned from each project and refer to past projects to avoid repeating mistakes. This would ensure that each project learns from past experiences and that the database remains relevant and valuable. The database would also ensure that lessons learned provoke change, and that this is not just lessons identified, but also lessons learned.
+
+
+

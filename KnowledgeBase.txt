@@ -1,0 +1,54 @@
+Knowledge Base of PRINCE2 Methodology
+
+Content:
+Detailed descriptions of the 7 Principles, 7 Practices (Themes), and 7 Processes.
+Examples of their application.
+Best practices for tailoring PRINCE2 to project size and complexity.
+Purpose: Provide authoritative guidance and contextual explanations.
+
+
+===
+
+PRINCE2 is a structured project management methodology that emphasizes control, planning, and clear roles and responsibilities. It is designed to be adaptable and scalable to fit different project environments and complexities. The method's core is built around seven principles, seven practices, and seven processes.
+
+**Core Principles**: These act as a "mindset" to keep the project aligned with PRINCE2 methodology. They are unchanging and if a project doesn't adhere to them, it is not being managed using PRINCE2. The seven principles are:
+*   **Continued Business Justification**: A project should only continue if it has a viable business case, which is reviewed at each stage. If the justification ceases to be valid, the project should be terminated.
+*   **Learn from Experience**: Each project should maintain a lessons log and refer to past project logs to improve future projects.
+*   **Defined Roles and Responsibilities**: Roles should be distinct from individuals and structured into different levels including corporate/programme management, project board, project manager, and team levels, with stakeholder representation.
+*   **Manage by Stages**: Projects should be planned and controlled on a stage-by-stage basis, with reviews at the end of each stage.
+*  **Manage by Exception**: Project managers work within pre-defined tolerances for key performance indicators such as scope, timescale, risk, quality, benefits, cost, and sustainability. Deviations from these tolerances are escalated to the next management level for a decision.
+*   **Focus on Products**: The methodology should focus on the definition and delivery of products including their quality requirements.
+*   **Tailor to Suit the Project**: PRINCE2 is adaptable to different project environments, sizes, complexities, and risks. The methodology can be tailored to the needs of a particular project.
+
+**Key Practices** (formerly themes): These are areas of focus that must be applied through the project. PRINCE2 defines relevant management products for each practice:
+*   **Business Case**: Supported by the Business Case document, which provides justification for the project.
+*   **Organizing**: Focuses on structuring the project team and defining roles. Supported by role descriptions and a communication management approach.
+*   **Quality**: Supported by a Product Description document to ensure the outputs meet required standards. Also supported by the quality management approach and quality register.
+*  **Plans**: Supported by project, stage, team and exception plans. Also supported by the project product and work package descriptions.
+*  **Risk**: Supported by the Risk Register, which keeps track of all project risks. Also supported by the risk management approach.
+*   **Issues**: Supported by the issue management approach, issue register, and issue report.
+*  **Progress**: Supported by the daily log, lessons log, checkpoint report, highlight report, lessons report, exception report, end stage report, and end project report. Also supported by the digital and data management approach.
+
+**Key Processes**: These outline the who, what, and when of the project, describing the steps involved from starting up to project closure:
+*   **Starting up a Project**: Involves appointing the project team and producing a project brief.
+*   **Initiating a Project**: Includes refining the business case and assembling project initiation documentation.
+*   **Directing a Project**: The project board directs the project manager and oversees the project.
+*  **Controlling a Stage**: The project manager authorizes work packages to team managers, manages issues and risks, and reports progress to the project board.
+*   **Managing Product Delivery**: Provides an interface between the project manager and the team manager(s) by placing formal requirements on accepting, executing, and delivering project work.
+*   **Managing Stage Boundaries**: The project manager prepares the information for the project board to decide whether to authorize the next stage or close the project.
+*   **Closing a Project**: The project is formally closed, follow-on actions are documented, lessons are learned, and benefits are evaluated.
+
+**Tailoring PRINCE2**:
+*   PRINCE2 is designed to be flexible and adaptable to different project environments, sizes, complexities, and risks.
+*  The methodology can be tailored to suit specific project needs, allowing project managers to scale the application of processes and documentation. For example, less documentation may be required for a small internal project than a large complex project.
+*   This adaptability ensures that the methodology can be applied to a wide range of projects effectively.
+
+**Best practices for tailoring PRINCE2**:
+*   **Assess project requirements**: Tailoring begins with understanding the specific needs, complexity, and risk profile of the project.
+*   **Scale processes**: Not every aspect of PRINCE2 is applicable to every project, and the processes can be scaled depending on the need.
+*   **Customize documentation**: Determine the appropriate level of documentation required for the project. Small projects may require less documentation than larger, more complex ones.
+*   **Focus on the principles**: While tailoring, ensure the project remains aligned with PRINCE2’s core principles.
+*   **Use management products**: Tailor the use of management products, such as the risk register and project plans, to fit the project's scope.
+*   **Integrate with other techniques**: PRINCE2 can be used alongside other project management techniques, such as agile methods, Kanban boards, and Gantt charts.
+
+By understanding and applying the core principles, practices, and processes of PRINCE2, and tailoring the methodology to fit the unique needs of each project, organizations can improve their project management capabilities and increase the likelihood of project success.
